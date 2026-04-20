@@ -59,7 +59,7 @@ Faster network troubleshooting
 
 
 
-## 👨‍💻 Author
+## Author
 
 **Vazeer Shaik**
 
