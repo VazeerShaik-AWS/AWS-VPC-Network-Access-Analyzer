@@ -1,4 +1,4 @@
-# VPC Network Access Analysis using AWS
+# AWS VPC Network Access Analyzer
 
 ## Overview
 
